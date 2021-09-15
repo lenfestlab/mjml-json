@@ -43,3 +43,4 @@ export { table, Attributes as TableAttributes } from "./table";
 export { raw } from "./raw";
 export { group, Attributes as GroupAttributes } from "./group";
 export { button, Attributes as ButtonAttributes } from "./button";
+export { divider, Attributes as DividerAttributes } from "./divider";
